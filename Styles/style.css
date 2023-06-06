@@ -31,6 +31,7 @@ body{
     color: darkorange;
 }
 .radiocheck{
+    color: deeppink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
@@ -48,4 +49,11 @@ h3{
 }
 .vinculo:hover{
     color: green;
+}
+#button{
+    color: blue;
+    font-size: 30px;
+    font-style: oblique;
+    background-color: brown;
+    border-color: gold;
 }
