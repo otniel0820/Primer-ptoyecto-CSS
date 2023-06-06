@@ -1,0 +1,51 @@
+h1{
+    color: blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    font-size: 38px;
+    color: red;
+    background-color: rgba(red, green, blue, alpha);
+    border-color: red;
+    border-style: outset;
+}
+.Monospace{
+    font-family: monospace;
+}
+#imgym{
+    text-align: center;
+}
+nav{
+    color: crimson;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url(../images/imagen\ ejercicio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#interrogante{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: darkorange;
+}
+.radiocheck{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+#curso{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    color: gold;
+}
+h3{
+    color: chartreuse;
+}
+#paginas{
+    font-size: 40px;
+}
+.vinculo:hover{
+    color: green;
+}
